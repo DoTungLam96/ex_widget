@@ -8,3 +8,4 @@ export 'themes/utils.dart';
 export 'widgets/base_app_bar.dart';
 export 'widgets/icon_widget.dart';
 export 'widgets/toast_widget.dart';
+export 'widgets/base_scaffort.dart';
