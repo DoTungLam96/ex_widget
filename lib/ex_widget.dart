@@ -1,5 +1,3 @@
-library ex_widget;
-
 export 'themes/app_theme.dart';
 export 'themes/colors.dart';
 
