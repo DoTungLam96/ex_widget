@@ -89,6 +89,7 @@ class IconWidget extends StatelessWidget {
     String realPath = path;
 
     return SvgPicture.asset(
+      package: 'ex_widget',
       realPath,
       height: width,
       width: height,
