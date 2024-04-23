@@ -1,4 +1,3 @@
-
 import 'package:ex_widget/themes/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -96,7 +95,7 @@ class BaseAppBar extends StatelessWidget implements PreferredSizeWidget {
     }
     return IconButton(
         icon: IconWidget.ic24(
-            color: IBColors.white,
+            color: IBColors.red,
             path: leadingIcon ?? Assets.images.icArrowLineLeft),
         onPressed: onBack != null
             ? onBack!
