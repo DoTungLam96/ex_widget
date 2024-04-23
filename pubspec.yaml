@@ -17,6 +17,9 @@ dependencies:
     git:
       url: https://github.com/DoTungLam96/ex_module_core.git
       ref: main
+
+  # ex_module_core:
+  #   path: ../ex_module_core
   flutter_svg:
   fluttertoast: ^8.0.9
   showcaseview: ^2.0.3
