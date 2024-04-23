@@ -1,9 +1,10 @@
-import 'package:ex_module_core/gen/assets.gen.dart';
+
 import 'package:ex_widget/themes/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get_it/get_it.dart';
 
+import '../gen/assets.gen.dart';
 import '../themes/ib_colors.dart';
 import 'icon_widget.dart';
 

@@ -1,7 +1,8 @@
-import 'package:ex_module_core/gen/assets.gen.dart';
+
 import 'package:flutter/widgets.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
+import '../gen/assets.gen.dart';
 import '../themes/utils.dart';
 import 'icon_widget.dart';
 
